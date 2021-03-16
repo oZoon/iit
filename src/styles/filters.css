@@ -1,0 +1,35 @@
+.filters {
+    width: 240px;
+}
+/* .filters:not(:last-child) {
+    border-bottom: 1px sold black;
+} */
+.filter-task-number,
+.filter-datetime,
+.filter-customer,
+.filter-supplier,
+.filter-supplier-contacts,
+.filter-supplier-ati {
+    width: 240px;
+    padding-top: 8px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid black;
+}
+.filter-supplier-ati {
+    border: 0;
+}
+.filter-text {
+    text-align: center;
+}
+.filter-width-70 {
+    width: 70px;
+}
+.filter-width-80 {
+    width: 80px;
+}
+.filter-width-100 {
+    width: 100px;
+}
+.filter-width-200 {
+    width: 200px;
+}
